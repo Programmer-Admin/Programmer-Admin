@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ABHIK
 - 👀 I’m interested in Test Automation And Script building
-- 🌱 I’m currently learning Selenium
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Automation Testing
 - 📫 How to reach me ... connect me on abkbsws1996@gmail.com
 
