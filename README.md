@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ABHIK
-- 👀 I’m interested in Test Automation And Script building
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Automation Testing
+- 👀 I’m interested in Open-source projects, DevOps solutions building and more...
+- 🌱 I’m currently learning IaC tools
+- 💞️ I’m looking to collaborate on DevOps Solutions
 - 📫 How to reach me ... connect me on abk_jasmine@yahoo.com
 
 <!---
